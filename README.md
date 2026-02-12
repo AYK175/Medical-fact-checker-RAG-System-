@@ -103,10 +103,6 @@ The system successfully retrieves and answers complex queries such as:
 
 ## 📁 Project Structure
 
-* `new.py` - The core application logic (Scraper + RAG).
+* `Medical_RAG_System.py` - The core application logic (Scraper + RAG).
 * `RAG_results.csv` - Evaluation output comparing question vs. generated answer.
-* `.gitignore` - Configured to ignore `venv/` and local temp files.
 
----
-
-### Would you like me to generate a `requirements.txt` file content now so you can add that to your repo as well?
